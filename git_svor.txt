@@ -31,3 +31,6 @@ verjast því þegar unnið er með tölvubúnað?
 
 8. Hvað eru jaðartæki?
 8. Jaðartæki sjá um samskipti milli þín og tölvunnar
+
+9. Nefndu þrjú dæmi um inntakstæki
+9. lyklaborð, mús, hljóðnemi
