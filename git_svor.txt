@@ -4,3 +4,7 @@
 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 2. ROM stendur fyrir Read Only Memory. ROM er tölvuminni sem tölva getur einungis lesið. Tölva getur ekki skrifað
  gögn í lesminni heldur þarf til þess sérstakan búnað.
+
+3. Hvað er fyrirbyggjandi viðhald?
+3. Fyrirbyggjandi viðhald eða Perventive Maintenance er þegar þú ferð með einhvern part úr tölvunni í skoðun/viðgerð þó
+tækið virki fínt. Þetta er gert til þess að koma í veg fyrir bilun.
