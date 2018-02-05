@@ -23,3 +23,5 @@
 5.	Hverjir eru helstu kostir við að nota GIT?
 5. Hægt er að fara til baka og endur gera skref. Líka er mjög gott að geta unnið í hópum og öðru fólki gegnum git
 
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+ Fer bara algjörlega eftir verkefninu
