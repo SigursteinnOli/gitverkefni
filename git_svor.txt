@@ -8,3 +8,7 @@
 3. Hvað er fyrirbyggjandi viðhald?
 3. Fyrirbyggjandi viðhald eða Perventive Maintenance er þegar þú ferð með einhvern part úr tölvunni í skoðun/viðgerð þó
 tækið virki fínt. Þetta er gert til þess að koma í veg fyrir bilun.
+
+4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
+verjast því þegar unnið er með tölvubúnað?
+4. ESD stendur fyrir Elecrto Static Discharge góð leið til þess að koma í veg fyrir að er að jarðartæki
