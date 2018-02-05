@@ -1,0 +1,13 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd      = Change directory, skiptir um directory
+	cd ~    = Change to home directory
+	ls      = sýnir lista af öllum skjölum í current directory
+	pwd     = listir öll directory í current directory
+	mkdir   = býr til nýtt directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone     = afritar repository inní nýtt directory
+	git log       = sýnir commit log'inn
+	git status    = sýnir slúðir frá index skjalinu til HEAD
+	git diff      = Show the working tree status
+	git checkout  = Switch branches or restore working tree files
