@@ -16,3 +16,6 @@
 	a) git diff   = Show changes between the commits
 	b) git diff --staged  = Will only show changes in the stages area
 	c) git diff commit1 commit2 = cybertreffen
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+ Version Control keeps track of all changes you do so you can call back an old verion of your git
