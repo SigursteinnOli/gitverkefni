@@ -28,3 +28,6 @@ verjast því þegar unnið er með tölvubúnað?
 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 7. Munurinn á opnri og lokaðri spurningu er að með lokaðri spurningu er bara hægt að svara með t.d. já eða nei.
 á meðan með opnri spurningu getur þú svara henni með fleiri og lengri valmöguleikum. 
+
+8. Hvað eru jaðartæki?
+8. Jaðartæki sjá um samskipti milli þín og tölvunnar
