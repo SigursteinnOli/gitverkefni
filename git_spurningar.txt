@@ -1,0 +1,56 @@
+1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
+1. RAM stendur fyrir Random Access Memory. Þetta er tímabundin staðsettning fyrir minningu og hluti sem gerast í tölvunni
+
+2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
+2. ROM stendur fyrir Read Only Memory. ROM er tölvuminni sem tölva getur einungis lesið. Tölva getur ekki skrifað
+ gögn í lesminni heldur þarf til þess sérstakan búnað.
+
+3. Hvað er fyrirbyggjandi viðhald?
+3. Fyrirbyggjandi viðhald eða Perventive Maintenance er þegar þú ferð með einhvern part úr tölvunni í skoðun/viðgerð þó
+tækið virki fínt. Þetta er gert til þess að koma í veg fyrir bilun.
+
+4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
+verjast því þegar unnið er með tölvubúnað?
+4. ESD stendur fyrir Elecrto Static Discharge góð leið til þess að koma í veg fyrir að er að jarðartæki
+
+5. Hvað þarf að hafa í huga við val á spennugjöfum?
+5. Að það séu nóg vött til þess að gefa rafmagn í alla partana í tölvunni
+
+6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+6. 	1. Taka rafmagnið af
+	2. Identify the problem
+	3. Establish a theory of probable cause
+	4. Test the theory to Dertermine the cause
+	5. Establish a plan of action to resolve the problem
+	6. Verify full system functionality
+	7. Document findings 
+
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+7. Munurinn á opnri og lokaðri spurningu er að með lokaðri spurningu er bara hægt að svara með t.d. já eða nei.
+á meðan með opnri spurningu getur þú svara henni með fleiri og lengri valmöguleikum. 
+
+8. Hvað eru jaðartæki?
+8. Jaðartæki sjá um samskipti milli þín og tölvunnar
+
+9. Nefndu þrjú dæmi um inntakstæki
+9. lyklaborð, mús, hljóðnemi
+
+10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+10. 	Processor = Core i7-7800X LGA2066                           54.500
+	
+	Motherboard = ASRock X99 Extreme4 ATX Intel LGA2011-3       39.500
+	
+	Memory = G.Skill 16GB (2x8GB) Ripjaws 1600MHz DDR3          22.500
+
+	GPU = Nvidia GTX 1070 JetStream 8GB                         79.500
+
+	Storage = 2TB Toshiba DT01ACA200 SATA3                      10.500
+
+	SSD = 250GB Samsung 850 EVO SATA3 SSD                       15.500
+	
+	Power supply = Xigmatek X-Calibre 600W                       9.500
+
+	kassi =  Xigmatek Glare 7A ATX turnkassi                    14.500

@@ -1,0 +1,2 @@
+1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
+1. RAM stendur fyrir Random Access Memory. Þetta er tímabundin staðsettning fyrir minningu og hluti sem gerast í tölvunni
