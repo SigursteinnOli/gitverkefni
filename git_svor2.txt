@@ -19,3 +19,7 @@
 
 4. 	Hvað er útgáfustýring (e.version control)? 
  Version Control keeps track of all changes you do so you can call back an old verion of your git
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+5. Hægt er að fara til baka og endur gera skref. Líka er mjög gott að geta unnið í hópum og öðru fólki gegnum git
+
