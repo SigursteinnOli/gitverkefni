@@ -11,3 +11,8 @@
 	git status    = sýnir slúðir frá index skjalinu til HEAD
 	git diff      = Show the working tree status
 	git checkout  = Switch branches or restore working tree files
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff   = Show changes between the commits
+	b) git diff --staged  = Will only show changes in the stages area
+	c) git diff commit1 commit2 = cybertreffen
