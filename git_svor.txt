@@ -15,3 +15,12 @@ verjast því þegar unnið er með tölvubúnað?
 
 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 5. Að það séu nóg vött til þess að gefa rafmagn í alla partana í tölvunni
+
+6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+6. 	1. Taka rafmagnið af
+	2. Identify the problem
+	3. Establish a theory of probable cause
+	4. Test the theory to Dertermine the cause
+	5. Establish a plan of action to resolve the problem
+	6. Verify full system functionality
+	7. Document findings 
