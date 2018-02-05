@@ -1,2 +1,6 @@
 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
 1. RAM stendur fyrir Random Access Memory. Þetta er tímabundin staðsettning fyrir minningu og hluti sem gerast í tölvunni
+
+2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
+2. ROM stendur fyrir Read Only Memory. ROM er tölvuminni sem tölva getur einungis lesið. Tölva getur ekki skrifað
+ gögn í lesminni heldur þarf til þess sérstakan búnað.
