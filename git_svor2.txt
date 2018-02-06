@@ -34,3 +34,5 @@
 8.	Hvenær er sniðugt að nota greinar (branches)? 
  að nota branch er einfaldara
 
+9.	Hver fann upp GIT?
+ Linus Torvalds
