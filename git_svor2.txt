@@ -25,3 +25,8 @@
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
  Fer bara algjörlega eftir verkefninu
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+ Working directory er directoryið sem þú ert að vinna í
+ staging area is a step before you commit
+ repository is a digital directory
