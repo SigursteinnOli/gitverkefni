@@ -30,3 +30,7 @@
  Working directory er directoryið sem þú ert að vinna í
  staging area is a step before you commit
  repository is a digital directory
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+ að nota branch er einfaldara
+
